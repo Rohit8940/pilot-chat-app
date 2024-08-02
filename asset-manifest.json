@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pilot-chat-app/static/css/main.0405afbf.chunk.css",
-    "main.js": "/pilot-chat-app/static/js/main.653eb2d0.chunk.js",
-    "main.js.map": "/pilot-chat-app/static/js/main.653eb2d0.chunk.js.map",
+    "main.js": "/pilot-chat-app/static/js/main.1d508436.chunk.js",
+    "main.js.map": "/pilot-chat-app/static/js/main.1d508436.chunk.js.map",
     "runtime-main.js": "/pilot-chat-app/static/js/runtime-main.0a35f219.js",
     "runtime-main.js.map": "/pilot-chat-app/static/js/runtime-main.0a35f219.js.map",
     "static/js/2.806ae2ce.chunk.js": "/pilot-chat-app/static/js/2.806ae2ce.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0a35f219.js",
     "static/js/2.806ae2ce.chunk.js",
     "static/css/main.0405afbf.chunk.css",
-    "static/js/main.653eb2d0.chunk.js"
+    "static/js/main.1d508436.chunk.js"
   ]
 }
