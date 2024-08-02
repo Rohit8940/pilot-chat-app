@@ -1,4 +1,4 @@
-// server/models/SavedArticle.js
+// server/Models/SavedArticle.js
 
 const mongoose = require('mongoose');
 
